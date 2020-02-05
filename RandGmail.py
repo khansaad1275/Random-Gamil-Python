@@ -7,4 +7,4 @@ def randomString(stringLength=6):
     return ''.join(random.choice(letters) for i in range(stringLength))
 
 gmail =  (randomString() + str(random.randint(1000,10000)) + "@gmail.com" )
-print(gmail)
+print("Your random Gmail is :"+gmail)

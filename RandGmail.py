@@ -8,3 +8,5 @@ def randomString(stringLength=6):
 
 gmail =  (randomString() + str(random.randint(1000,10000)) + "@gmail.com" )
 print("Your random Gmail is :"+gmail)
+
+#test

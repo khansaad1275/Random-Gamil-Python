@@ -1,1 +1,2 @@
-Hey This was an old project when i started learning python
+Hey This was an old project when i started learning python.
+so basically the gmail will be as text format and that's it, there is no API involved
